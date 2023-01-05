@@ -4,7 +4,6 @@ import Notiflix from 'notiflix';
 
 const startBtn = document.querySelector('[data-start]');
 const timerEl = document.querySelector('.timer');
-// console.log(timer.children[0]);
 const hours = document.querySelector('[data-hours]');
 const days = document.querySelector('[data-days]');
 const minutes = document.querySelector('[data-minutes]');
